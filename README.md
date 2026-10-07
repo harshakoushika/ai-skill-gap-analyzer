@@ -2,7 +2,9 @@
 
 ### AI-Powered Full-Stack Career Readiness Platform
 
-AI Skill Gap Analyzer is a full-stack career-readiness platform that analyzes a user's resume against company and job-role requirements, identifies matched and missing skills, evaluates technical ability through **MCQ, Coding, and SQL assessments**, calculates **job readiness**, and generates **personalized learning recommendations**.
+An AI-powered platform that analyzes resumes against target job roles,
+identifies skill gaps, evaluates technical skills through MCQ, coding,
+and SQL assessments, and generates personalized learning roadmaps.
 
 <p align="center">
   <a href="https://ai-skill-gap-analyzer-gamma.vercel.app/login">
