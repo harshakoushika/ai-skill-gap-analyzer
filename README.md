@@ -10,7 +10,7 @@ AI Skill Gap Analyzer is a full-stack career-readiness platform that analyzes a 
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/harshakoushika/ai-skill-gap-analyzer">
-    <strong>📦 GitHub Repository</strong>
+    <strong>📂 Source Code</strong>
   </a>
 </p>
 
